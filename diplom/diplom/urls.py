@@ -22,5 +22,7 @@ urlpatterns = [
     path('showSignUp/', include('app1.urls')),
     path('showSignIn/', include('app1.urls')),
     path('SignIn/', include('app1.urls')),
+    path('SignUp/', include('app1.urls')),
+    path('shop/', include('app1.urls')),
 
 ]
