@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Корзина</title>
+
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header">
+        <nav>
+
+        </nav>
+
+      </div>
+  User:<input name="Customer" value={{name}}>
+      <div class="jumbotron">
+           <form class="form-signin" method="get"action="/ord">
+
+            {% for z in data %}
+<hr>
+             <p class="name">{{z.2}}</p>
+
+        <div class="cost">{{z.4}} byn</div>
+         <label  class="onStock">вы приобрели:{{z.3}}</label>
+
+            {% endfor %}
+               <div>
+               Итого: {{itog}}
+                   </div>
+             <button id="btnBsk"  class="btn btn-lg btn-primary btn-block"  type="submit">оформить заказ</button>
+      </form>
+      </div>
+
+
+
+      <footer class="footer">
+        <p>&copy;ivangoglev</p>
+      </footer>
+
+    </div>
+  </body>
+</html>

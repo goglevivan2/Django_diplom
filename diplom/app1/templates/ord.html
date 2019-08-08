@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order</title>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+</head>
+<body>
+заказ оформлен
+
+<div class="jumbotron">
+
+            <form class="form-signin" method="get" action="/com/">
+              {% csrf_token %}
+                <input name="Customer" value={{name}}>
+        <label for="inputName" class="sr-only">Отзыв</label>
+        <input type="name" name="inputСomment" id="inputName" class="form-control" placeholder="Оставте небольшой отзыв" required autofocus>
+        <button id="btnSignIn"  class="btn btn-lg btn-primary btn-block"  type="submit">Оставить отзыв</button>
+            </form>
+      </div>
+</body>
+</html>

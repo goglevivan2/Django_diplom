@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a741b98a-004c-4e58-959f-5c5721edaec0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/diplom/app1/sql_work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/shop.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/bsk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/ord.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pen1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pen3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pen4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pencil2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/pencil5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/static/stylo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom/app1/templates/stylo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom/app1/sql_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/sql_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom/app1/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/templates/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diplom/app1/templates/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/templates/signin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diplom/app1/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/templates/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diplom/app1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diplom/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/app1/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diplom/diplom/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/diplom/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diplom/diplom/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/diplom/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diplom/shop.db" beforeDir="false" afterPath="$PROJECT_DIR$/diplom/shop.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,21 +32,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/diplom/diplom/settings.py">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+            <state relative-caret-position="-195">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/diplom/app1/views.py">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/templates/comments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="289">
+              <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/templates/ord.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/templates/bsk.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom/diplom/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#630#662#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,8 +97,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diplom/app1/sql_work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="1989">
+              <caret line="129" column="42" selection-start-line="129" selection-start-column="42" selection-end-line="129" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom/app1/templates/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="49" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -56,29 +118,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/diplom/diplom/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/diplom/app1/templates/signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/diplom/app1/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diplom/app1/templates/signin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="30" column="12" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <element signature="e#1220#1226#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,22 +147,27 @@
       <list>
         <option value="$PROJECT_DIR$/diplom/templates/index.html" />
         <option value="$PROJECT_DIR$/diplom/app1/templates/index.html" />
-        <option value="$PROJECT_DIR$/diplom/app1/templates/shop.html" />
-        <option value="$PROJECT_DIR$/diplom/diplom/urls.py" />
-        <option value="$PROJECT_DIR$/diplom/app1/urls.py" />
         <option value="$PROJECT_DIR$/diplom/app1/templates/signup.html" />
-        <option value="$PROJECT_DIR$/diplom/app1/templates/signin.html" />
-        <option value="$PROJECT_DIR$/diplom/app1/sql_work.py" />
-        <option value="$PROJECT_DIR$/diplom/app1/views.py" />
         <option value="$PROJECT_DIR$/diplom/diplom/settings.py" />
+        <option value="$PROJECT_DIR$/diplom/app1/shop.txt" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/signin.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/stylo.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/shop.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/bsk.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/urls.py" />
+        <option value="$PROJECT_DIR$/diplom/diplom/urls.py" />
+        <option value="$PROJECT_DIR$/diplom/app1/sql_work.py" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/ord.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/templates/comments.html" />
+        <option value="$PROJECT_DIR$/diplom/app1/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="225" />
-    <option name="y" value="270" />
-    <option name="width" value="1810" />
-    <option name="height" value="980" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="300" />
+    <option name="width" value="1270" />
+    <option name="height" value="925" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,12 +210,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DJ_diplom\diplom\app1\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\DJ_diplom\diplom\app1" />
     </key>
@@ -182,6 +237,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="sql_work" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DJ_diplom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom/app1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/app1/sql_work.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sql_work" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -195,6 +278,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="36" width="1550" height="835" extended-state="6" />
     <layout>
@@ -203,12 +295,12 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32859176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32859176" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.314367" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32859176" />
@@ -242,33 +334,6 @@
     <entry file="file://$PROJECT_DIR$/diplom/app1/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diplom/diplom/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diplom/app1/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/diplom/diplom/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -281,47 +346,115 @@
     <entry file="file://$PROJECT_DIR$/diplom/app1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/shop.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/shop.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/diplom/diplom/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/stylo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/diplom/app1/models.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/signup.html">
+    <entry file="file://$PROJECT_DIR$/diplom/diplom/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="679">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/diplom/app1/templates/signin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <element signature="e#1220#1226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/diplom/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/bsk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/ord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom/app1/templates/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/diplom/app1/sql_work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="1989">
+          <caret line="129" column="42" selection-start-line="129" selection-start-column="42" selection-end-line="129" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/diplom/app1/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="-195">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diplom/diplom/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
         </state>
       </provider>
     </entry>

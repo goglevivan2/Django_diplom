@@ -20,7 +20,7 @@
 
       <div class="jumbotron">
 
-            <form class="form-signin" method="post" action="/SignIn">
+            <form class="form-signin" method="get" action="/SignIn/">
               {% csrf_token %}
         <label for="inputName" class="sr-only">Name</label>
         <input type="name" name="inputName" id="inputName" class="form-control" placeholder="Name" required autofocus>
